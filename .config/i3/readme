@@ -1,0 +1,3 @@
+this command prepare lockscreen image for system.  in i3/config file you must use "betterlockscreen -l dim" command for use it for set lockscreen
+betterlockscreen -u ~/.config/i3/lockscreenPic/background5.jpg
+
