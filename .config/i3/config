@@ -48,10 +48,10 @@ floating_modifier $super
 
 
 # switch to workspace
-bindsym $super+Control+l workspace next
+bindsym $super+Control+k workspace next
 bindsym $super+Control+Right workspace next
 bindsym $super+Control+Left workspace prev
-bindsym $super+Control+h workspace prev
+bindsym $super+Control+j workspace prev
 bindsym $alt+1 workspace $ws1
 bindsym $alt+2 workspace $ws2
 bindsym $alt+3 workspace $ws3
